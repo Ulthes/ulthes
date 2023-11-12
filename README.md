@@ -13,9 +13,9 @@ Do note that some of them may be **outdated**.
 
 ### 🔭 What I am currently working on
 
-I want to get a little better with different frameworks on the front end, so I am not locked with React all the time.
+I want to get a little better with different frameworks on the front end, so I am not locked with React all the time. 
 
-At some point in the future, I would like to move to Full Stack Development with either Microsoft .Net and/or Python.
+I am also exploring the back-end as well, currently with NodeJS+ExpressJS, but I would like to test things out with Python/.Net in the future.
 
 ### 📫 How to reach me
 
