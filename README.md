@@ -10,7 +10,7 @@ Do note that some of them may be **outdated**.
 
 ### 📫 How to reach me
 
-- Email: [contact@pixel-corgi.com](mailto:contact@pixel-corgi.com)
+- Email: [pixel-corgi@outlook.com](mailto:pixel-corgi@outlook.com)
 - LinkedIn: [https://www.linkedin.com/in/krzysztof-wisznarewski/](https://www.linkedin.com/in/krzysztof-wisznarewski/)
 
 ![](https://komarev.com/ghpvc/?username=ulthes)
